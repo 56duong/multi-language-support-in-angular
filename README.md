@@ -1,27 +1,45 @@
-# MultiLanguage
+# Multi-Language Angular App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
+This project is an Angular application designed to demonstrate multi-language support using the `@ngx-translate/core` library. This code is part of a tutorial series on my YouTube channel.
 
-## Development server
+[![thumbnail](https://github.com/user-attachments/assets/f92c6477-7366-4284-97df-2f216acca75b)](https://youtu.be/RsQ2UrZx4So)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Multi-language support
+- Language preference saved in local storage
+- Default language set to English
 
-## Build
+## Getting Started
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Prerequisites
 
-## Running unit tests
+- Node.js
+- Angular CLI
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Installation
 
-## Running end-to-end tests
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd <repository-directory>
+    ```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2. Install the dependencies:
+    ```bash
+    npm install
+    ```
 
-## Further help
+3. Run the application:
+    ```bash
+    ng serve
+    ```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+4. Open your browser and navigate to `http://localhost:4200/`.
+
+
+## Contact
+For any questions or comments, please reach out via my [YouTube channel](https://www.youtube.com/@56duong)
+
+Thank you for checking out this project! Be sure to watch the tutorial video on my YouTube channel for a detailed walkthrough.
