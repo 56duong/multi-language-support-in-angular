@@ -1,0 +1,11 @@
+{
+  "home": {
+    "home": "Home",
+    "products": "Products",
+    "about_us": "About us",
+    "contact": "Contact",
+    "services": "Services",
+    "login": "Login"
+  },
+  "message": "Message"
+}
