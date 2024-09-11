@@ -22,8 +22,8 @@ This project is an Angular application designed to demonstrate multi-language su
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/56duong/multi-language-support-in-angular.git
+   cd multi-language-support-in-angular
     ```
 
 2. Install the dependencies:
@@ -33,7 +33,7 @@ This project is an Angular application designed to demonstrate multi-language su
 
 3. Run the application:
     ```bash
-    ng serve
+    npm start
     ```
 
 4. Open your browser and navigate to `http://localhost:4200/`.
